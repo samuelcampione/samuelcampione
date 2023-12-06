@@ -6,6 +6,7 @@
 
 ## <span style="color:dimgray;">Projects: </span> 
 
+#### - [Mitochondria Segmentation Using U-Net on Electron Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 #### - [Predicting Daily Physical Activity in Older Adults Using a Two-Part Random Effects Model](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults)
 #### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) in Older Adults](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults/blob/main/M1%20MRef%20Comparison.R)
 
