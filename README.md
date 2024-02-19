@@ -6,6 +6,7 @@
 
 ## <span style="color:dimgray;">Projects: </span> 
 
+#### - [Ribo-Seq Data Pipeline and Differential Expression Analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/)
 #### - [Mitochondria Segmentation Using U-Net on Electron Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 #### - [Ribsome Paralogs Alignment Visualizations](https://github.com/samuelcampione/Ribosome-Protein-Paralogs-Alignments)
 #### - [Inflammation Biomarkers and Risk of Cardiovascular-related Mortality](https://github.com/samuelcampione/cvd_biomarker_inflamm)
