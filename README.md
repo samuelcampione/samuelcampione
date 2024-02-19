@@ -9,6 +9,7 @@
 
 #### - [Ribo-Seq Data Pipeline and Differential Expression Analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/)
 #### - [Mitochondria Segmentation Using U-Net on Electron Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
+#### - [RNA-seq Analysis (Baseline Expression Profiles for Ribosome Paralogs)](https://github.com/samuelcampione/RNAseq_Transcription_Analysis_Ribosome_Paralogs/)
 #### - [Ribsome Paralogs Alignment Visualizations](https://github.com/samuelcampione/Ribosome-Protein-Paralogs-Alignments)
 #### - [Inflammation Biomarkers and Risk of Cardiovascular-related Mortality](https://github.com/samuelcampione/cvd_biomarker_inflamm)
 #### - [Predicting Daily Physical Activity in Older Adults Using a Two-Part Random Effects Model](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults)
