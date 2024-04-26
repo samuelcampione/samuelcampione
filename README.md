@@ -7,6 +7,7 @@
 
 ## <span style="color:dimgray;">Projects: </span> 
 
+#### - [Zero-Shot Learning for Restaruant Images and Reviews](https://github.com/samuelcampione/zero_shot_learning_restaurant_data)
 #### - [Ribo-Seq Data Pipeline and Differential Expression Analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/)
 #### - [Mitochondria Segmentation Using U-Net on Electron Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 #### - [RNA-seq Analysis (Baseline Expression Profiles for Ribosome Paralogs)](https://github.com/samuelcampione/RNAseq_Transcription_Analysis_Ribosome_Paralogs/)
