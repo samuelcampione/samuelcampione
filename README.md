@@ -2,7 +2,7 @@
 
 * Data Scientist, Intern in the Zhou Lab at the Buck Institute for Research on Aging.
 * Graduate student getting my MS in Data Science at University of San Francisco.
-* Interested in the artificial intelligence & machine learning research and its applications (e.g., in biotech and biomedical research).
+* Interested in the artificial intelligence & deep learning research and its applications.
 
 
 ## <span style="color:dimgray;">Projects: </span> 
