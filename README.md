@@ -10,7 +10,7 @@
 #### - [Zero-Shot Learning for Restaruant Images and Reviews](https://github.com/samuelcampione/zero_shot_learning_restaurant_data)
 #### - [Convolution Neural Network Techniques for Image Classification](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10)
 #### - [Ribo-Seq Data Pipeline and Differential Expression Analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/)
-#### - [Mitochondria Segmentation Using U-Net on Electron Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
+#### - [U-Net Deep Learning Model for Image Segmentation of Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 #### - [RNA-seq Analysis (Baseline Expression Profiles for Ribosome Paralogs)](https://github.com/samuelcampione/RNAseq_Transcription_Analysis_Ribosome_Paralogs/)
 #### - [Ribsome Paralogs Alignment Visualizations](https://github.com/samuelcampione/Ribosome-Protein-Paralogs-Alignments)
 #### - [Inflammation Biomarkers and Risk of Cardiovascular-related Mortality](https://github.com/samuelcampione/cvd_biomarker_inflamm)
