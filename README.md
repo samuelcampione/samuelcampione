@@ -1,6 +1,6 @@
 ## <span style="color:salmon;">About me</span> :bust_in_silhouette:
 
-* Data Scientist, Intern in the Zhou Lab at the Buck Institute for Research on Aging.
+* Data Scientist in the Zhou Lab at the Buck Institute for Research on Aging.
 * Graduate student getting my MS in Data Science at University of San Francisco.
 * Interested in the artificial intelligence & deep learning research and its applications.
 
