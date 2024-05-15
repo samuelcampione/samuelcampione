@@ -7,6 +7,8 @@
 
 ## <span style="color:dimgray;">Projects: </span> 
 
+#### - [Canine Affective State Classification: DINO-ViT and ResNet-50](https://github.com/samuelcampione/canine_affective_state_classification)
+#### - [Fine-Tuning DistilBERT for Personality Classification of Social Media Text](https://github.com/samuelcampione/finetuning_distilbert_for_personality_classification)
 #### - [Zero-Shot Learning for Restaruant Images and Reviews](https://github.com/samuelcampione/zero_shot_learning_restaurant_data)
 #### - [Convolution Neural Network Techniques for Image Classification](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10)
 #### - [Ribo-Seq Data Pipeline and Differential Expression Analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/)
