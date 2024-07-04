@@ -6,6 +6,7 @@
 
 
 ## 🐍 ML, Deep Learning & AI
+#### - [Personalized Email Writer with Llama3 Fine-Tuned using QLoRA](https://github.com/samuelcampione/personalized_llama3/tree/main)
 #### - [Canine Emotion State Classification: DINO-ViT and ResNet-50](https://github.com/samuelcampione/canine_affective_state_classification)
 #### - [Fine-Tuning DistilBERT for Personality Classification of Social Media Text](https://github.com/samuelcampione/finetuning_distilbert_for_personality_classification)
 #### - [Zero-Shot Learning for Restaruant Images and Reviews](https://github.com/samuelcampione/zero_shot_learning_restaurant_data)
