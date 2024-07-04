@@ -13,7 +13,7 @@
 #### - [U-Net for Segmentation of Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 
 ## Clinical Data Analysis
-#### - [Electronic Health Record (EHR) Data Analysis](https://github.com/samuelcampione/stanford_ehr_data_analysis/tree/main)
+#### - [Stanford Electronic Health Record (EHR) Data Analysis](https://github.com/samuelcampione/stanford_ehr_data_analysis/tree/main)
 #### - [Inflammation Biomarkers and Risk of Cardiovascular-related Mortality](https://github.com/samuelcampione/cvd_biomarker_inflamm)
 #### - [Predicting Daily Physical Activity in Older Adults Using a Two-Part Random Effects Model](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults)
 #### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) in Older Adults](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults/blob/main/M1%20MRef%20Comparison.R)
