@@ -6,12 +6,12 @@
 
 
 ## 🐍 ML, Deep Learning & AI
-#### - [Personalized Email Writer with Llama3 Fine-Tuned using QLoRA](https://github.com/samuelcampione/personalized_llama3/tree/main)
-#### - [Canine Emotion State Classification: DINO-ViT and ResNet-50](https://github.com/samuelcampione/canine_affective_state_classification)
-#### - [Fine-Tuning DistilBERT for Personality Classification of Social Media Text](https://github.com/samuelcampione/finetuning_distilbert_for_personality_classification)
-#### - [Zero-Shot Learning for Restaruant Images and Reviews](https://github.com/samuelcampione/zero_shot_learning_restaurant_data)
+#### - [Personalized LLM with Llama3 Fine-Tuned using QLoRA](https://github.com/samuelcampione/personalized_llama3/tree/main)
+#### - [Emotion State Image Classification: DINO-ViT and ResNet-50](https://github.com/samuelcampione/canine_affective_state_classification)
+#### - [Fine-Tuning DistilBERT for Classification of Media Text](https://github.com/samuelcampione/finetuning_distilbert_for_personality_classification)
+#### - [Zero-Shot Learning for Images and Text](https://github.com/samuelcampione/zero_shot_learning_restaurant_data)
 #### - [Convolution Neural Network Techniques for Image Classification](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10)
-#### - [U-Net for Segmentation of Microscopy Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
+#### - [U-Net for Segmentation of Image Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 
 ## 📊 Clinical Data Analysis
 #### - [Stanford Electronic Health Record (EHR) Data Analysis](https://github.com/samuelcampione/stanford_ehr_data_analysis/tree/main)
