@@ -1,8 +1,9 @@
 ## <span style="color:salmon;">About me</span> :bust_in_silhouette:
 
-* Data Scientist in the Zhou Lab at the Buck Institute for Research on Aging.
+* Data Scientist & Researcher in psychology, AI, biology, and health.
 * University of San Francisco alum with a M.S. in Data Science.
 * Work in the statistics, artificial intelligence, & deep learning research and its applications.
+* Also into metrics, methods, and measurement stuff.
 
 
 ## 🐍 ML, Deep Learning & AI
