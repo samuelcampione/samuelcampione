@@ -14,11 +14,14 @@
 #### - [Convolution Neural Network Techniques for Image Classification](https://github.com/samuelcampione/CNN_Techniques_for_Image_Classification_using_CIFAR10)
 #### - [U-Net for Segmentation of Image Data](https://github.com/samuelcampione/UNet-mitochondria-segmentation)
 
+## 🧠 Computational Psychology
+#### - [Personality Classification of Social Media Text](https://github.com/samuelcampione/finetuning_distilbert_for_personality_classification)
+#### - [Predicting Daily Physical Activity in Older Adults Using a Two-Part Random Effects Model](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults)
+#### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) in Older Adults](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults/blob/main/M1%20MRef%20Comparison.R)
+
 ## 📊 Clinical Data Analysis
 #### - [Stanford Electronic Health Record (EHR) Data Analysis](https://github.com/samuelcampione/stanford_ehr_data_analysis/tree/main)
 #### - [Inflammation Biomarkers and Risk of Cardiovascular-related Mortality](https://github.com/samuelcampione/cvd_biomarker_inflamm)
-#### - [Predicting Daily Physical Activity in Older Adults Using a Two-Part Random Effects Model](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults)
-#### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) in Older Adults](https://github.com/samuelcampione/Predicting-Exercise-in-Older-Adults/blob/main/M1%20MRef%20Comparison.R)
 
 
 ## 🧬 Bioinformatics
