@@ -3,7 +3,7 @@
 * Data Scientist & Researcher in AI, psychology, and biology.
 * University of San Francisco alum with a M.S. in Data Science.
 * Work in the artificial intelligence & deep learning research and its applications to biology and psychology.
-* Also into metrics, methods, and personality stuff.
+* Also into methods, measurement, and personality stuff!
 
 
 ## 🐍 ML, Deep Learning & AI
