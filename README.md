@@ -1,8 +1,7 @@
 ## <span style="color:salmon;">About me</span> :bust_in_silhouette:
 
-* Data Scientist & Researcher in AI, psychology, and biology.
-* University of San Francisco alum with a M.S. in Data Science.
-* Work in the artificial intelligence & deep learning research and its applications to biology and psychology.
+* Data Scientist at Stanford University.
+* Work in the AI/ML research for social media and psychology.
 * Also into methods, measurement, and personality stuff!
 
 
